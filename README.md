@@ -31,3 +31,6 @@ ___
 ## #1.3 WebSocket Events
 - WS도 eventListener 사용방법과 유사하게 쓸 수 있다.
 - Listen가능한 Event들이 정해져있다.
+
+## #1.4 WebSocket Messages
+- BE, FE에 각각 socket listener 함수를 만들어서 연결하기
