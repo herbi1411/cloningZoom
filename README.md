@@ -34,3 +34,8 @@ ___
 
 ## #1.4 WebSocket Messages
 - BE, FE에 각각 socket listener 함수를 만들어서 연결하기
+
+## #1.6 Chat Completed
+- Client MessageForm 생성
+- Client에서 메시지를 보내면 Server에서 메시지 그대로 다시 보내기
+- sockets배열을 만들어서 연결된 소켓들에게 메시지 브로드캐스팅 하기
